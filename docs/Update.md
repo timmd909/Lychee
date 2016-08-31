@@ -1,7 +1,9 @@
 ### Update requirements
 
-- Your system must comply with the latest [system requirements](https://github.com/electerious/Lychee/blob/master/docs/Installation.md) of Lychee.
-- Ensure that your current version is greater than 2.7.0. Updates from older Lychee versions aren't supported.
+- Your system must comply with the latest
+  [system requirements](https://github.com/electerious/Lychee/blob/master/docs/Installation.md) of Lychee.
+- Ensure that your current version is greater than 2.7.0. Updates from older
+  Lychee versions aren't supported.
 
 ### Update with `git`
 
